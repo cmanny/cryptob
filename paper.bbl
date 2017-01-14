@@ -1,0 +1,59 @@
+\begin{thebibliography}{1}
+
+\bibitem{netflix}
+Vitaly~Shmatikov Arvind~Narayanan.
+\newblock {How To Break Anonymity of the Netflix Prize Dataset}.
+\newblock \url{https://arxiv.org/abs/cs/0610105}, 2007.
+
+\bibitem{backes2013anoa}
+Michael Backes, Aniket Kate, Praveen Manoharan, Sebastian Meiser, and Esfandiar
+  Mohammadi.
+\newblock Anoa: A framework for analyzing anonymous communication protocols.
+\newblock In {\em 2013 IEEE 26th Computer Security Foundations Symposium},
+  pages 163--178. IEEE, 2013.
+
+\bibitem{Dwork2008}
+Cynthia Dwork, Manindra Agrawal, Dingzhu Du, Zhenhua Duan, and Angsheng Li.
+\newblock {\em Differential Privacy: A Survey of Results}, pages 1--19.
+\newblock Springer Berlin Heidelberg, Berlin, Heidelberg, 2008.
+
+\bibitem{TCC:DMNS06}
+Cynthia Dwork, Frank McSherry, Kobbi Nissim, and Adam Smith.
+\newblock Calibrating noise to sensitivity in private data analysis.
+\newblock In Shai Halevi and Tal Rabin, editors, {\em TCC~2006: 3rd Theory of
+  Cryptography Conference}, volume 3876 of {\em Lecture Notes in Computer
+  Science}, pages 265--284, New York, NY, USA, March~4--7, 2006. Springer,
+  Heidelberg, Germany.
+
+\bibitem{coupled}
+R~Bassily et~al.
+\newblock {Coupled-Worlds Privacy: Exploiting Adversarial Uncertainty in
+  Statistical Data Privacy}.
+\newblock \url{https://arxiv.org/abs/cs/0610105}, 2013.
+
+\bibitem{C:GHLP12}
+Johannes Gehrke, Michael Hay, Edward Lui, and Rafael Pass.
+\newblock Crowd-blending privacy.
+\newblock In Reihaneh Safavi-Naini and Ran Canetti, editors, {\em Advances in
+  Cryptology -- {CRYPTO}~2012}, volume 7417 of {\em Lecture Notes in Computer
+  Science}, pages 479--496, Santa Barbara, CA, USA, August~19--23, 2012.
+  Springer, Heidelberg, Germany.
+
+\bibitem{TCC:GehLuiPas11}
+Johannes Gehrke, Edward Lui, and Rafael Pass.
+\newblock Towards privacy for social networks: A zero-knowledge based
+  definition of privacy.
+\newblock In Yuval Ishai, editor, {\em TCC~2011: 8th Theory of Cryptography
+  Conference}, volume 6597 of {\em Lecture Notes in Computer Science}, pages
+  432--449, Providence, RI, USA, March~28--30, 2011. Springer, Heidelberg,
+  Germany.
+
+\bibitem{WISA:NNKK15}
+Binh~P. Nguyen, Hoa Ngo, Jihun Kim, and Jong Kim.
+\newblock Publishing graph data with subgraph differential privacy.
+\newblock In Howon Kim and Dooho Choi, editors, {\em WISA 15: 16th
+  International Workshop on Information Security Applications}, volume 9503 of
+  {\em Lecture Notes in Computer Science}, pages 134--145, Jeju Island, Korea,
+  August~20--22, 2016. Springer, Heidelberg, Germany.
+
+\end{thebibliography}
